@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project translates a **Semidefinite Programming (SDP)-based multi-period DC microgrid optimal power flow (OPF) problem** from MATLAB/CVX into C, deploys it on a **Raspberry Pi 5** via a real-time Ethernet interface, and validates solver accuracy across **304 fixed parameter permutations**.
+As part of my advanced research projects course for my MS in Computer Engineering at Columbia University, I worked on a semester long spring research project with the Motor Drives And Power Electronics Lab (MPLab), which helps to translate a **Semidefinite Programming (SDP)-based multi-period DC microgrid optimal power flow (OPF) problem** from MATLAB/CVX into C, deploys it on a **Raspberry Pi 5** via a real-time Ethernet interface, and validates solver accuracy across **304 fixed parameter permutations**.
 
 The core research question:
 
