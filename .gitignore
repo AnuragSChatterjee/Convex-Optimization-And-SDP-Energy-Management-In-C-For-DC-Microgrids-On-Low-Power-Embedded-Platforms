@@ -1,0 +1,37 @@
+# MATLAB generated files
+*.asv
+*.m~
+slprj/
+*.slxc
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# CVXPYgen build artifacts (do not commit — rebuild on Pi)
+DCPF_multi_c/c/build/
+cpg_example
+*.so
+*.a
+CMakeCache.txt
+CMakeFiles/
+
+# Data files (large — do not commit)
+*.mat
+solar_power_data.mat
+sdp_results_transfer.mat
+temp_input.mat
+current_payload.json
+
+# Intermediate transfer files
+sdp_results_transfer.mat
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and output (keep only the curated ones in results/)
+*.log
