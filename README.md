@@ -7,11 +7,6 @@
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 [![Speedup](https://img.shields.io/badge/Speedup-25×%20faster-orange)]()
 
-**Researcher:** Anurag S. Chatterjee  
-**Supervisor:** Ariana Haghighi  
-**Sponsor:** Navid Rahbariasr  
-**Duration:** Jan 30 – May 15, 2026 | Columbia University MPLab
-
 ---
 
 ## Overview
